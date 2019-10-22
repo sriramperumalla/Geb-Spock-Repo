@@ -6,5 +6,5 @@ https://gebish.org/manual/current/ \
 https://docs.gradle.org/5.6.2/userguide/installation.html \
 http://www.groovy-lang.org/install.html \
 http://spockframework.org/spock/docs/1.3/all_in_one.html \
-https://www.baeldung.com/groovy-spock \
+https://www.baeldung.com/groovy-spock 
  
